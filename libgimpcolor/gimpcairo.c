@@ -35,7 +35,7 @@
 
 
 /**
- * SECTION: gimpcairo
+ * SECTION: gimpcair
  * @title: GimpCairo
  * @short_description: Color utility functions for cairo
  *
